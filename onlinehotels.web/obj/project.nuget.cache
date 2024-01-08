@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ke/9iQ5NDK04NuQX2IOL4kJw15qoLprR54A5H+Xr2pndxg/sdeCQ4qEq3WNAij6Xrr3Gc2VerSRGlJt6afH2mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reliance Digital\\Desktop\\asp.net\\onlinehotels\\onlinehotels.web\\onlinehotels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reliance Digital\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
